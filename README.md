@@ -1,14 +1,14 @@
 # ATEC_Hindi
-Hindi Translated version of Autism Treatment Evaluation Checklist
+Hindi Translated version of Autism Treatment Evaluation Checklist (ATEC)
 
 
-# Autors
+# Authors
 Surbhit Wagle
 
 Nitin Gupta, Lab of Neural Systems, IIT Kanpur
 
 
-# Edited by
+# Edited
 Surbhit Wagle
 
 Nitin Gupta, Lab of Neural Systems, IIT Kanpur
